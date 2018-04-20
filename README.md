@@ -1,0 +1,2 @@
+# TestIndAssign4
+Test
